@@ -1,4 +1,4 @@
-# Hamburgermenu pure CSS
+# Hamburgermenu puur CSS
  Simpel CSS hamburgermenu voor studenten Mediacollege Amsterdam.
  Doe het volgende:
  1. Kopieer de hamburgermenu.css in jouw CSS map
